@@ -1,5 +1,5 @@
 # Data-Science-Assignment
-Test task for internship in O.Dev company
+Test task for internship in O.Dev company \
 Program chooses random sentence from the input.txt file and outputs this sentence and extracted names to the console.
 
 ## What you should do to run the application locally
