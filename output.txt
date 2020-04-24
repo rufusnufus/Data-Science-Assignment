@@ -1,2 +1,0 @@
-I: Have a cold one, have an "El Chapo" beer. That's the message of Alejandrina Guzman, whose company has developed a craft beer dedicated to her infamous, incarcerated kingpin father Joaquin "El Chapo" Guzman.
-O: Alejandrina Guzman, Joaquin "El Chapo" Guzman

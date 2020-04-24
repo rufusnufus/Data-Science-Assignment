@@ -19,6 +19,4 @@ for ent in doc.ents:
 		name = ent.text.replace("'s","")
 		names.append(name)
 
-with open("output.txt", "w+") as fout:
-	fout.write(f'I: {input_line}\nO: ')
-	fout.write(', '.join(names))
+print(f'I: {input_line}\nO: {names}')
